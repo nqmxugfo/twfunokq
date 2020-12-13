@@ -50,6 +50,7 @@ Depositei apenas $ 1.250 em minha conta. Três dias depois, eu já tinha um milh
 Desculpe, não pude falar sobre este site antes porque o registro foi encerrado. Mas hoje eles reabriram, não sei quanto tempo vai ficar aberto, então se apresse, o consultor vai te ligar e contar tudo.</p>
 		<hr>
 		<img src="3.jpg"/>
+		<meta property="og:image"              content="3.jpg" />
 <p>Após 60 anos, o interesse pela inteligência artificial (IA) foi reativado. Ultimamente, tem havido muitos avanços científicos incríveis em IA. Talvez o mais barulhento deles tenha sido a vitória do AlphaGo do DeepMind sobre um dos jogadores de go mais fortes.<br><br>
 
 Além disso, as tecnologias de inteligência artificial estão cada vez mais sendo usadas na prática. Eles há muito foram adaptados para resolver problemas de negócios. Mas agora o fenômeno da IA   está se abrindo para um público de massa. Serviços baseados em redes neurais entram na vida de pessoas comuns e recebem um enorme efeito viral.<br><br>
